@@ -32,6 +32,7 @@ public class PowerMenuConstants {
     public static final String GLOBAL_ACTION_KEY_ASSIST = "assist";
     public static final String GLOBAL_ACTION_KEY_LOGOUT = "logout";
     public static final String GLOBAL_ACTION_KEY_EMERGENCY = "emergency";
+    public static final String GLOBAL_ACTION_KEY_SCREENRECORD = "screenrecord";
 
     /**
      * Advanced restart menu actions
